@@ -8,5 +8,5 @@ def test_002():
 def test_003():
     print("I am test 003")
 
-def test_004():
-    print("I am test 003")
+def test_005():
+    print("I am test 005")
